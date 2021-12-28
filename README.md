@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MPatra122
-- 👀 I’m interested in AT,ML
+- 👀 I’m interested in AI,ML, data science project
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on movie ticketing recommendation
 - 📫 I am reachable @ patramk07@gmail.com
